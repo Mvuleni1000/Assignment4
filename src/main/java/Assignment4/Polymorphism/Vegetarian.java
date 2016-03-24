@@ -5,5 +5,5 @@ package Assignment4.Polymorphism;
  */
 public interface Vegetarian {
 
-    public String greenStaff();
+    public String greenStaff(String foodType);
 }
